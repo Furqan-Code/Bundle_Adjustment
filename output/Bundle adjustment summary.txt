@@ -1,0 +1,5 @@
+Model summary:
+number of cameras: 13, number of points: 1030, total parameters: 3168,total residuals: 4646
+Max. reprojection error (in pixels): 106.02571545283445
+Min. reprojection error (in pixels): -121.93735187698712
+RMS reprojection error (in pixels): 6.099214533384187
